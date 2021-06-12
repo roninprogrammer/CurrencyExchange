@@ -1,6 +1,6 @@
 # CurrencyXhange
 
-Build an Currency Exchange app which Currency conversion tool using live exchange rates.
+Build an Currency Exchange app which Currency conversion tool using live exchange rates and also crypto exchange
 
 ## Use Case 
 
