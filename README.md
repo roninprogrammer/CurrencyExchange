@@ -15,7 +15,7 @@ Use Exchanges Rates API(https://exchangeratesapi.io/) to fetch data.
 
 ## Architecture 
 
-This app implements the MVC architectural pattern using a activity receive all the events and user inputs from the View (Controller) and other class working with data as the Model. 
+This app implements the MVVM architectural pattern using a activity receive all the events and user inputs from the View (Controller) and other class working with data as the Model. 
 
 <img src="https://github.com/roninprogrammer/currencyxchange/blob/main/app/src/main/assets/CurrencyXchange.png?raw=true" width="700"/>
 
